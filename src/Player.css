@@ -1,0 +1,35 @@
+.player_main {
+    background-color: #D4F1F4;
+}
+
+.width_100 {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.controls {
+    bottom: 0;
+    background-color: #189AB4;
+    position: absolute;
+    width: 100%;
+}
+
+.controls span {
+    margin: 10px auto;
+}
+
+.button {
+    height: 50px;
+    width: 50px;
+    /* line-height: 40px; */
+    -moz-border-radius: 50%; /* or 50% */
+    border-radius: 50%; /* or 50% */
+
+    display: flex; /* or inline-flex */
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+
+    background-color: white;
+    font-size: 25px;
+  }
