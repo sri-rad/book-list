@@ -1,0 +1,5 @@
+CLIENT_ID = ''
+CLIENT_SECRET = ''
+USER_AGENT = ''
+
+GOOGLE_API_KEY = ''
